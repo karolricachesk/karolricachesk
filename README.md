@@ -6,7 +6,7 @@
 
 #
 
-<p align="center"> Olá 👋! Me chamo Karoline! Atualmente sou estudante de Programação através do Instituto Caldeira, realizo alguns cursos através da plataforma da Alura. No momento ainda não estou cursando nenhuma faculdade, mas um dos meus maiores objetivos é começar uma faculdade em Ciencias da Computação!
+<p align="center"> Olá 👋! Me chamo Karoline! Atualmente sou estudante de Programação através do Instituto Caldeira, realizo alguns cursos através da plataforma da Alura. No momento ainda não estou cursando nenhuma faculdade, mas um dos meus maiores objetivos é começar uma em Ciencias da Computação!
 Me interesso tanto por front quanto por back-end, e minhas principais linguagens são Python, Java e JavaScript. 
 Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
