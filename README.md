@@ -35,8 +35,6 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="25" alt="unity logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/python-original.svg" height="25" alt="mysql logo"  />
 </div>
 
 #
